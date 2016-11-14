@@ -10,7 +10,7 @@ namespace sub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("sub");
+            Console.WriteLine("sub1");
         }
     }
 }
