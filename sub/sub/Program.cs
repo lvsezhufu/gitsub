@@ -11,7 +11,7 @@ namespace sub
         static void Main(string[] args)
         {
             Console.WriteLine("sub1masterb1");
-            Console.WriteLine("b12a2");
+            Console.WriteLine("b12a21");
         }
     }
 }
