@@ -12,7 +12,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ok");
+            Console.WriteLine("ok1");
             //Microsoft.Office.Interop
         }
     }
